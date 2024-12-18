@@ -18,7 +18,7 @@ Steps to Host Your XAMPP Website Publicly Using localhost.run:
    ssh -R 80:localhost:80 ssh.localhost.run
 
 6. Once the command runs, you will see a public URL like:
-   https://7523004db90440.lhr.life
+ My Liks will shown like this ".lhr.life".
 
 7. Open the provided URL in a browser to access your website.
 
